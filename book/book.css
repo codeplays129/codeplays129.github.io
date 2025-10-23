@@ -1,0 +1,29 @@
+#main{ margin: 20px auto; border: 1px solid rgb(#ff0000, green, blue); }
+.left,.banner,.right{ float: left; }
+#main.left{
+    width: 200px; height: 490px; background-color: chocolate;
+}
+.left ul>li{
+    list-style-type:none;width: 180px;height: 40px;line-height: 40px;margin: 8px;
+}
+.left a{
+    display:inline-block ; width: 180px;height: 40px;color: black;
+    padding-left: 20px;
+}
+.left a:hover{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(254, 240, 255);
+    cursor: pointer;
+
+
+}
+.img14,.img13{
+    display: block;
+}
+.right{
+    width: 10px;
+}
+#main.right{
+    width: 100px; height: 1800px; background-color: chocolate;margin: 8px;
+}
