@@ -1,15 +1,13 @@
 #main{ margin: 20px auto; border: 1px solid rgb(#ff0000, green, blue); }
-.left,.banner,.right{ float: left; }
+.left,.img15,.img16,.img17,.banner,.right{ float: left; }
+
 #main.left{
     width: 200px; height: 490px; background-color: chocolate;
 }
 .left ul>li{
     list-style-type:none;width: 180px;height: 40px;line-height: 40px;margin: 8px;
 }
-.left a{
-    display:inline-block ; width: 180px;height: 40px;color: black;
-    padding-left: 20px;
-}
+
 .left a:hover{
     width: 200px;
     height: 40px;
@@ -18,12 +16,22 @@
 
 
 }
-.img14,.img13{
+.img15,.img16,.img17 ,.right{
     display: block;
-}
-.right{
-    width: 10px;
+    
+    border-top: 10px; 
+    border-bottom:50px ;
+    border-left:5px ;
+    border-right:5px ;
+    border-style: solid;
+    border-color: antiquewhite;
 }
 #main.right{
+    width: 200px; height: 490px; background-color: chocolate;
+}
+#main.banner{
     width: 100px; height: 1800px; background-color: chocolate;margin: 8px;
+    border-color: azure;
+    border-width: 50px;
+    border-style: solid;
 }
