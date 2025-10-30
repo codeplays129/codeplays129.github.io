@@ -2,7 +2,7 @@
 .left,.img15,.img16,.img17,.banner,.right{ float: left; }
 
 #main.left{
-    width: 200px; height: 490px; background-color: chocolate;
+    width: 200px; height: 490px; background-color: chocolate;padding: 20px;
 }
 .left ul>li{
 width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
@@ -13,6 +13,7 @@ width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
     height: 40px;
     background-color: rgb(254, 240, 255);
     cursor: pointer;
+    padding: 20px;
 }
 .right,.banner,.left{
     display: block;
@@ -23,6 +24,7 @@ width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
     border-right:5px ;
     border-style: solid;
     border-color: antiquewhite;
+    padding: 20px;
 }
 .img15,.img16,.img17{
     display: block;
@@ -33,6 +35,7 @@ width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
     border-right:5px ;
     border-style: solid;
     border-color: antiquewhite;
+    padding: 20px;
 #main.right{
     width: 200px; height: 490px; background-color: chocolate;
 }
@@ -41,4 +44,5 @@ width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
     border-color: azure;
     border-width: 50px;
     border-style: solid;
+    padding: 20px;
 }
