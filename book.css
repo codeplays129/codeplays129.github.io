@@ -36,6 +36,7 @@ width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
     border-style: solid;
     border-color: antiquewhite;
     padding: 20px;
+    margin: 8px;
 #main.right{
     width: 200px; height: 490px; background-color: chocolate;
 }
@@ -45,4 +46,5 @@ width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
     border-width: 50px;
     border-style: solid;
     padding: 20px;
+    margin: 8px;
 }
