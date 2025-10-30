@@ -15,7 +15,7 @@ width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
     cursor: pointer;
     padding: 20px;
 }
-.right,.banner,.left{
+.right,.banner,.left,.table{
     display: block;
     
     border-top: 10px; 
