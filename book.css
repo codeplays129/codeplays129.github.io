@@ -46,5 +46,12 @@ width: 180px;height: 40px;margin: 8px;list-style: none;list-style: none;
     border-width: 50px;
     border-style: solid;
     padding: 20px;
-    margin: 8px;
+    marg
+.nav {
+    display: flex;
+    list-style: none;
+}
+.nav li {
+    margin: 0 15px;
+    cursor: pointer;
 }
